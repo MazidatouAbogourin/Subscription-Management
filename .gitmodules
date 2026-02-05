@@ -1,0 +1,3 @@
+[submodule "Subscription-Management-FrontEnd"]
+	path = Subscription-Management-FrontEnd
+	url = https://github.com/MazidatouAbogourin/Subscription-Management-FrontEnd.git
